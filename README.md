@@ -1,4 +1,8 @@
-# C++ programming coursework
+# C++ programming
+
+> **Coursework** · Object-oriented programming exercises
+>
+> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
 
 Separate exercises in introductory C++ and object-oriented programming.
 
