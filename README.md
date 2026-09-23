@@ -2,7 +2,7 @@
 
 > **Coursework** · Object-oriented programming exercises
 >
-> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+> [Selected projects](https://github.com/BadrEss01/BadrEss01#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
 
 Separate exercises in introductory C++ and object-oriented programming.
 
@@ -28,4 +28,4 @@ Expected output includes `robotics`. This example is checked by the repository's
 
 The original MSBuild template referenced a Visual Studio solution that is not present. It has been replaced with a focused GCC smoke build. This does not establish that all assignments compile or behave correctly. Historical executables were removed from the current tree and remain recoverable through Git history.
 
-[Portfolio](https://github.com/BadrEss01/BadrEss) · [Coursework index](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+[Portfolio](https://github.com/BadrEss01/BadrEss01) · [Coursework index](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
